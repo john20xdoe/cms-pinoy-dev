@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: john20xdoe/cms-pinoy-dev
   branch: master
 
 media_folder: static/img
