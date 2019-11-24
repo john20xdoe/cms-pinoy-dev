@@ -2,7 +2,7 @@
   <h1>
     Pinoy.Dev
   </h1>
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/03241f08-0247-469e-ab75-c11f5475d9e6/deploy-status)](https://app.netlify.com/sites/cms-pinoy-dev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03241f08-0247-469e-ab75-c11f5475d9e6/deploy-status)](https://app.netlify.com/sites/cms-pinoy-dev/deploys)
 </div>
 
 <br>
